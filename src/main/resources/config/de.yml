@@ -5,7 +5,7 @@
 ConfigVersion: ${project.version}
 
 # Bot Token, du weißt nicht, was das ist? Schau dir das Video auf der Pluginseite an!
-BotToken: "BOTTOKEN"
+BotToken: "ODU1NDkzMjI5OTIyNzQ2Mzc5.YMzSKA.GnjNXeHc_OtLO0JLX_mN_a5BJeM" 
 
 # Kanalverbindungen vom Spiel zu Discord
 # Syntax ist Channels: {"Kanalname im Spiel von Minecraft": "numerische Kanal-ID von Discord", "ein anderer Kanalname im Spiel von Minecraft": "eine andere numerische Kanal-ID von Discord"}
@@ -24,7 +24,7 @@ BotToken: "BOTTOKEN"
 # for /discord broadcast: broadcasts (sofern nicht im Befehl angegeben)
 #
 # Der erste Teil von Kanalpaaren ist nicht der Discord-Kanalname!
-Channels: {"global": "000000000000000000"}
+Channels: {"global": "855492591386230854"}
 
 # Konsolenkanal; benötigt eine numerische Kanal-ID (NICHT den Namen!), zum Deaktivieren auf "" setzen
 DiscordConsoleChannelId: "000000000000000000"
